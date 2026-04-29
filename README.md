@@ -1,5 +1,5 @@
 Purpose:
-    Gutenberg Web Access's raison d'être is to provide simple access to
+    Gutenberg Listen's raison d'être is to provide simple access to
     the Gutenberg Project website of 70,000 plus books to both
     sighted and blind users.  It is provided without charge under the
     agpl-3.0 license.
