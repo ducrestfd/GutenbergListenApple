@@ -21,7 +21,7 @@ Purpose:
 
 Privacy Statement:
 
-Your privacy is a priority. Gutenberg Web Access is designed to be a private, secure tool for accessing public domain literature.
+Your privacy is a priority. Gutenberg Listen is designed to be a private, secure tool for accessing public domain literature.
 
 1. No Personal Data Collection
 We do not collect, store, or transmit any personally identifiable information (PII).
